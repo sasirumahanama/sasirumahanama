@@ -50,7 +50,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Currently studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT).<br><br>💻 Passionate about web and application development, with a strong interest in building practical projects.<br>🐧 Dedicated Linux user, currently daily driving Arch Linux with Hyprland.<br><br>🚀 Continuously learning new technologies and improving my software development skills.</p>
+<p data-importer="text" align="left">🎓 Currently studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT).<br><br>💻 Passionate about web and application development, with a strong interest in building practical projects.<br><br>🐧 Dedicated Linux user, currently daily driving Arch Linux with Hyprland.<br><br>🚀 Continuously learning new technologies and improving my software development skills.</p>
 
 ###
 

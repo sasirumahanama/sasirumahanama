@@ -1,13 +1,5 @@
 <h2 data-importer="text" align="left">Hey I'm Sasiru 👋</h2>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=sasirumahanama&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
